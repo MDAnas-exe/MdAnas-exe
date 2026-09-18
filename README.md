@@ -24,14 +24,6 @@ Manifest V3 Chrome extension to block companies from Internshala listings. Conte
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDAnas-exe&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-anas-13082933a)
