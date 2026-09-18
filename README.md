@@ -7,8 +7,7 @@ Full-stack developer building MERN applications and JavaScript browser extension
 *   **Languages:** JavaScript (ES6+), HTML5, CSS3
 *   **Frontend:** React, React Router, TanStack Query, React Hook Form, Tailwind CSS, Vite
 *   **Backend:** Node.js, Express.js, REST APIs, MongoDB, Mongoose, JWT, bcrypt
-*   **Tools:** Git, GitHub, Postman, MongoDB Compass, WSL
-*   **Environment:** WSL (learning), Git
+*   **Tools:** Git, GitHub, Postman, MongoDB Compass
 
 ---
 
